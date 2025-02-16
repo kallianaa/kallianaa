@@ -6,7 +6,7 @@
 
 ### 🐍 Snake Animation
 
-![Snake animation](https://github.com/kallianaa/kallianaa/actions/workflows/main.yml)
+![Snake animation](https://github.com/kallianaa/kallianaa/blob/main/.github/workflows/main.yml)
 
 <!---
 kallianaa/kallianaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
