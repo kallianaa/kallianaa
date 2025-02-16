@@ -2,13 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OLÁ!+👋;+SOU+KALLIANA+GLAESER!;" />
 </h1>
 
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake.svg">
-</picture>
 
 <p> Estudante de Analise e Desenvolvimento de Sistemas, pela UNISINOS.</p>
 
@@ -31,7 +24,11 @@
 ![Kalliana GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kallianaa&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true)
 
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!---
 kallianaa/kallianaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
