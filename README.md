@@ -4,8 +4,6 @@
 - 📫 How to reach me can you send me an email: 
 - ⚡ Fun fact: Working with SST.
 
-### 🐍 Snake Animation
-
 # ![snake gif](https://github.com/kallianaa/kallianaa/blob/output/github-contribution-grid-snake.gif)
 
 <!---
