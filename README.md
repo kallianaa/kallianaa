@@ -15,6 +15,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kallianaa&theme=transparent&hide_border=true" width="400">
 </div>
 
+## Tecnologias que eu uso no meu dia
+
+![Kalliana GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kallianaa&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+
+ 
         
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalliana-glaeser/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kallianaa/)
