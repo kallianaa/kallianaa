@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OLÁ!+👋;+SOU+KALLIANA+GLAESER!;" />
 </h1>
 
-![Snake animation](https://github.com/kallianaa/kallianaa/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/kallianaa/kallianaa/blob/output/github-contribution-grid-snake-dark.gif)
 
 <p> Estudante de Analise e Desenvolvimento de Sistemas, pela UNISINOS.</p>
 
