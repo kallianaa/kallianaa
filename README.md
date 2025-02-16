@@ -6,7 +6,7 @@
 
 ### 🐍 Snake Animation
 
-![Snake animation](https://github.com/kallianaa/kallianaa/blob/main/contribution-grid-snake.svg)
+![Snake animation](https://github.com/kallianaa/kallianaa/bblob/output/github-contribution-grid-snake.gif)
 
 <!---
 kallianaa/kallianaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
