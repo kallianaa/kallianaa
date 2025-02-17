@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OLÁ!+👋;+SOU+KALLIANA+GLAESER!;" />
 </h1>
 
-<p> Estudante de Analise e Desenvolvimento de Sistemas, pela UNISINOS.</p>
+<p> Estudante de Análise e Desenvolvimento de Sistemas, pela UNISINOS.</p>
 
 <p>Atualmente estou focando meus estudos em Java.</p>
 
