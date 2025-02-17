@@ -11,8 +11,8 @@
 #
 [![E-mail](https://img.shields.io/badge/-Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=black)](mailto:kalliana.glaeser@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/kalliana-glaeser/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/kallianaa/)
-[![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/kallianaa) 
+[![Instagram](https://img.shields.io/badge/-Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/kallianaa/)
+[![Telegram](https://img.shields.io/badge/-Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/kallianaa) 
 [![Spotify](https://img.shields.io/badge/-Spotify-0A0A0A?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/46P8xIQCaqkC4miN2c1W0M?si=ebbfe5767e97470c) 
 #
 <div style="display: inline_block"><br>
