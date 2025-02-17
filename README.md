@@ -6,7 +6,7 @@
 
 <p>Atualmente estou focando meus estudos em Java.</p>
 
-<p>Criatividade, facilidade em aprender e ensinar, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
+<p>Criatividade, facilidade em aprender, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
 
 #
 [![E-mail](https://img.shields.io/badge/-Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=black)](mailto:kalliana.glaeser@gmail.com)
