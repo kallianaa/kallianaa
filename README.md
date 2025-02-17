@@ -16,8 +16,8 @@
 [![Spotify](https://img.shields.io/badge/-Spotify-0A0A0A?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/46P8xIQCaqkC4miN2c1W0M?si=ebbfe5767e97470c) 
 #
 <div style="display: inline_block"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kallianaa&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kallianaa&theme=transparent&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=kallianaa&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&text_color=FFFAFA" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kallianaa&theme=transparent&hide_border=true&text_color=FFFAFA" width="400">
 </div>
 
 ## Tecnologias que eu uso no meu dia
