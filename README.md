@@ -4,7 +4,7 @@
 
 <p> Estudante de Análise e Desenvolvimento de Sistemas, pela UNISINOS.</p>
 
-<p>Atualmente estou focando meus estudos em Java.</p>
+<p>Atualmente estou focando meus estudos em Java, JavaScript e desenvolvimento web.</p>
 
 <p>Criatividade, facilidade em aprender, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
 
