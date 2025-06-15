@@ -8,7 +8,7 @@
 
 <p>Criatividade, facilidade em aprender, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
 
-<h5>Contato</h5>
+<h4>Contato</h4>
 <a href = "mailto:kalliana.glaeser@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kalliana-glaeser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
