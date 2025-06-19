@@ -10,20 +10,13 @@
 
 <h3>Contato</h3>
 <a href = "mailto:kalliana.glaeser@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kalliana-glaeser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/kalliana-glaeser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<!---#
-[![E-mail](https://img.shields.io/badge/-Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=black)](mailto:kalliana.glaeser@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/kalliana-glaeser/)
-[![Instagram](https://img.shields.io/badge/-Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/kallianaa/)
-[![Telegram](https://img.shields.io/badge/-Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/kallianaa) 
-[![Spotify](https://img.shields.io/badge/-Spotify-0A0A0A?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/46P8xIQCaqkC4miN2c1W0M?si=ebbfe5767e97470c) 
-#
---->
+
 #
 <div style="display: inline_block"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=kallianaa&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&text_color=F8F8FF" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kallianaa&theme=transparent&hide_border=true&text_color=F8F8FF" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kallianaa&theme=transparent&hide_border=true&text_color=F8F8FF" width="300">
 </div>
 
 
