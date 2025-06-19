@@ -16,7 +16,7 @@
 #
 <div style="display: inline_block"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=kallianaa&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&text_color=F8F8FF" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kallianaa&theme=transparent&hide_border=true&text_color=F8F8FF" width="300">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kallianaa&theme=transparent&hide_border=true&text_color=F8F8FF" width="400">
 </div>
 
 
