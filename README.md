@@ -24,12 +24,30 @@
 
 ![Kalliana GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kallianaa&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true&text_color=F8F8FF)
 
-
+<!---
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake.svg">
 </picture>
+--->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/kallianaa/https://github.com/kallianaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/kallianaa/https://github.com/kallianaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/https://github.com/kallianaa/https://github.com/kallianaa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/kallianaa.https://github.com/kallianaa&"  />
+</div>
+
+###
+
+###
+
 
 <!---
 kallianaa/kallianaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
