@@ -37,6 +37,42 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <!---
+## Tecnologias Conhecidas
+
+<table>
+    <thead>
+        <tr>
+            <th>Experiente</th>
+            <th>Aprendendo</th>
+            <th>Tenho interesse em</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img src='./img/reactjs.svg' alt='reactjs'/>
+                <img src='./img/html5.svg' alt='html5'/>
+                <img src='./img/css3.svg' alt='css3'/>
+                <img src='./img/typescript.svg' alt='typescript'/>
+                <img src='./img/javascript.svg' alt='javascript'/>
+                <img src='./img/nextjs.svg' alt='nextjs'/>
+            </td>
+            <td>
+                <img src='./img/node.svg' alt='node'/>
+                <img width='50x' src='./img/git.svg' alt='git'/>
+                <img  src='./img/docker.svg' alt='docker'/>
+            </td>
+            <td>
+                <img src='./img/react-native.svg' alt='react native'/>
+                <img src='./img/redux.svg' alt='redux'/>
+                <img src='./img/graphql.svg' alt='graphql'/>
+            </td>
+        </tr>
+    </tbody>
+</table>
+--->
+
+<!---
 ## Tecnologias que eu uso no meu dia 
 ![Kalliana GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kallianaa&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true&text_color=F8F8FF)
 --->
