@@ -21,12 +21,24 @@
 <a href = "https://www.linkedin.com/in/kalliana-glaeser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 --->
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2>📊 GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=kallianaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=kallianaa&theme=dark&hide_border=false"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallianaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    </td>
+    <td valign="top" width="50%">
+      <h2>🏆 Conquistas</h2>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://stats-readme-g3ri.vercel.app/api/?username=kallianaa&theme=dark&hide_rank=true&include_all_commits=true"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kallianaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kallianaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kallianaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🖥 **Linguagens e Ferramentas:**  
 
@@ -93,6 +105,16 @@
 <!---
 ## Tecnologias que eu uso no meu dia 
 ![Kalliana GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kallianaa&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true&text_color=F8F8FF)
+--->
+
+<!---
+![](https://github-readme-stats.vercel.app/api?username=kallianaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=kallianaa&theme=dark&hide_border=false)<br/> 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kallianaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Kalliana's GitHub stats](https://stats-readme-g3ri.vercel.app/api/?username=kallianaa&theme=dark&hide_rank=true&include_all_commits=true&)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
 ###
