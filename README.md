@@ -16,11 +16,12 @@
 [![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/kallianaa)
 
 
+
 <!---
 <a href = "mailto:kalliana.glaeser@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/kalliana-glaeser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 --->
-
+<!---
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -37,7 +38,7 @@
     </td>
   </tr>
 </table>
-
+--->
 
 
 ## 🖥 **Linguagens e Ferramentas:**  
@@ -46,11 +47,8 @@
 
 ## Aprendendo
 
-<img src="https://skillicons.dev/icons?i=nodejs,postman,docker,ts,react,next" />
+<img src="https://skillicons.dev/icons?i=nodejs,postman,docker,ts,react,next,mysql,postgres" />
 
-## DataBases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 <!---
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -117,6 +115,16 @@
 [![Kalliana's GitHub stats](https://stats-readme-g3ri.vercel.app/api/?username=kallianaa&theme=dark&hide_rank=true&include_all_commits=true&)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
+
+###
+
+<!---
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake.svg">
+</picture>
+
 ###
 
 ## 👨🏻‍💻 Meu GitHub 
@@ -127,13 +135,14 @@
 
 ###
 
-<!---
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kallianaa/kallianaa/output/github-contribution-grid-snake.svg">
-</picture>
 --->
+###
+
+## 👨🏻‍💻 Meu GitHub 
+ <div style="display: inline-block; vertical-align: top;">
+       <img src="https://github-readme-streak-stats.herokuapp.com?user=kallianaa&theme=transparent&hide_border=true&text_color=F8F8FF" width="400">
+  <img src="https://stats-readme-g3ri.vercel.app/api/?username=kallianaa&theme=transparent&hide_border=true&text_color=F8F8FF&hide_rank=true&include_all_commits=true" width="300">
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph-dark.svg">
