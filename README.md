@@ -21,11 +21,11 @@
 
 ## 🖥 **Linguagens e Ferramentas:**  
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,terminal" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode" />
 
 ## Aprendendo
 
-<img src="https://skillicons.dev/icons?i=nodejs,apidog,postman,docker,ts,react,next" />
+<img src="https://skillicons.dev/icons?i=nodejs,postman,docker,ts,react,next" />
 
 ## DataBases
 
