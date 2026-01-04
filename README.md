@@ -14,11 +14,12 @@
 <a href = "https://www.linkedin.com/in/kalliana-glaeser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ### 
-## Tecnologias que eu uso no meu dia 
+## 🏆 GitHub Trophies
 ![](https://github-readme-stats.vercel.app/api?username=kallianaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kallianaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kallianaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!---
+## Tecnologias que eu uso no meu dia 
 ![Kalliana GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kallianaa&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true&text_color=F8F8FF)
 --->
 
