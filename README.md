@@ -10,8 +10,17 @@
 <p align="left">Criatividade, facilidade em aprender, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
 
 <h3>Contato</h3>
+
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/kalliana-glaeser/)
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:kalliana.glaeser@gmail.com)
+[![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/kallianaa)
+
+
+<!---
 <a href = "mailto:kalliana.glaeser@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/kalliana-glaeser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+--->
+
 
 ### 
 ## 📊 GitHub Stats:
