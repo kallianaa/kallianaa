@@ -21,14 +21,15 @@
 <a href = "mailto:kalliana.glaeser@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/kalliana-glaeser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 --->
-<!---
+
+
 <table>
   <tr>
     <td valign="top" width="50%">
       <h2>📊 GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=kallianaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=kallianaa&theme=transparent&hide_border=true&text_color=F8F8FF&include_all_commits=false&count_private=false"/>
       <img src="https://nirzak-streak-stats.vercel.app/?user=kallianaa&theme=dark&hide_border=false"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallianaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallianaa&theme=transparent&hide_border=true&text_color=F8F8FF&include_all_commits=false&count_private=false&layout=compact"/>
     </td>
     <td valign="top" width="50%">
       <h2>🏆 Conquistas</h2>
@@ -38,7 +39,6 @@
     </td>
   </tr>
 </table>
---->
 
 
 ## 🖥 **Linguagens e Ferramentas:**  
@@ -138,6 +138,7 @@
 --->
 ###
 
+<!---
 ## 👨🏻‍💻 Meu GitHub 
  <div style="display: inline-block; vertical-align: top;">
        <img src="https://github-readme-streak-stats.herokuapp.com?user=kallianaa&theme=transparent&hide_border=true&text_color=F8F8FF" width="400">
@@ -149,7 +150,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph.svg">
 </picture>
-
+--->
 ###
 
 <div align="center">
