@@ -138,19 +138,22 @@
 --->
 ###
 
-<!---
+
 ## 👨🏻‍💻 Meu GitHub 
+<!---
  <div style="display: inline-block; vertical-align: top;">
        <img src="https://github-readme-streak-stats.herokuapp.com?user=kallianaa&theme=transparent&hide_border=true&text_color=F8F8FF" width="400">
   <img src="https://stats-readme-g3ri.vercel.app/api/?username=kallianaa&theme=transparent&hide_border=true&text_color=F8F8FF&hide_rank=true&include_all_commits=true" width="250">
 </div>
+--->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph.svg">
 </picture>
---->
+
+
 ###
 
 <div align="center">
