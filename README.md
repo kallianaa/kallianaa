@@ -27,9 +27,7 @@
   <tr>
     <td valign="top" width="50%">
       <h2>📊 GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=kallianaa&theme=transparent&hide_border=true&text_color=F8F8FF&include_all_commits=false&count_private=false"/>
       <img src="https://nirzak-streak-stats.vercel.app/?user=kallianaa&theme=dark&hide_border=false"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallianaa&theme=transparent&hide_border=true&text_color=F8F8FF&include_all_commits=false&count_private=false&layout=compact"/>
     </td>
     <td valign="top" width="50%">
       <h2>🏆 Conquistas</h2>
