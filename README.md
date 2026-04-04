@@ -57,7 +57,12 @@ Buscando oportunidades de estágio ou posições trainee para colocar em prátic
   </tr>
 </table>
 
----
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ## 📬 Contato
 
