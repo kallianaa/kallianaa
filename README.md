@@ -28,7 +28,7 @@ Buscando oportunidades de estágio ou posições trainee para colocar em prátic
 |---|---|
 | Java | Básico |
 | Python | Básico |
-| Git/GitHub | Básico |
+| Git/GitHub | Intemediário |
 | SQL | Básico |
 | HTML/CSS | Básico |
 
