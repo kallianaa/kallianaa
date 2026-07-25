@@ -18,7 +18,6 @@
 
 Estudante na fase final de ADS, em transição para a área de tecnologia.  
 Tenho interesse em desenvolvimento de software e estou construindo minha base em Java, Python e banco de dados.  
-Buscando oportunidades de estágio ou posições trainee para colocar em prática o que aprendi.
 
 ---
 
@@ -28,7 +27,7 @@ Buscando oportunidades de estágio ou posições trainee para colocar em prátic
 |---|---|
 | Java | Básico |
 | Python | Básico |
-| Git/GitHub | Intemediário |
+| Git/GitHub | Intermediário |
 | SQL | Básico |
 | HTML/CSS | Básico |
 
@@ -72,7 +71,7 @@ Buscando oportunidades de estágio ou posições trainee para colocar em prátic
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/kallianaa.https://github.com/kallianaa&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kallianaa.kallianaa"  />
 </div>
 
 ###
