@@ -1,9 +1,10 @@
 <h1 align="center">Oi, eu sou a Kalli 👋</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas · Unisinos · Lajeado, RS
+  Formanda em Análise e Desenvolvimento de Sistemas · Unisinos · Lajeado, RS
 </p>
 
+<!---
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -12,30 +13,36 @@
   <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
+
 ---
 
 ## 👩‍💻 Sobre mim
 
 Estudante na fase final de ADS, em transição para a área de tecnologia.  
 Tenho interesse em desenvolvimento de software e estou construindo minha base em Java, Python e banco de dados.  
+--->
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 💻 Tecnologias
 
-| Tecnologia | Nível |
-|---|---|
-| Java | Básico |
-| Python | Básico |
-| Git/GitHub | Intermediário |
-| SQL | Básico |
-| HTML/CSS | Básico |
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</p>
 
----
+### Ferramentas
 
-## 🚧 Projetos
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="40" src="https://cdn.simpleicons.org/github/ffffff"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+</p>
 
-> Em breve — projetos sendo desenvolvidos.
 
 ---
 
