@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <b>Formada em Análise e Desenvolvimento de Sistemas</b> · Unisinos
+  <b>Análise e Desenvolvimento de Sistemas</b>
 </p>
 
 <p align="center">
@@ -22,10 +22,11 @@
 
 ## 👩‍💻 Sobre Mim
 
-- 🎓 Formanda em **Análise e Desenvolvimento de Sistemas** pela **Unisinos** (Lajeado/RS).
-- 🔄 Em transição de carreira para a área de **Tecnologia & Desenvolvimento de Software**.
+- 🎓 Formada em **Análise e Desenvolvimento de Sistemas** pela **Unisinos**.
+- 🧪 Atualmente atuando como **Assistente de QA** (Quality Assurance).
 - ☕ Focada em **Java**, **Spring Boot**, **Python** e modelagem de **Bancos de Dados SQL**.
 - 🐳 Praticando containerização com **Docker**, controle de versão com **Git/GitHub** e boas práticas de código.
+
 
 ---
 
@@ -41,6 +42,7 @@
 
   | Categoria | Tecnologias |
   | :--- | :--- |
+  | **QA & Qualidade** |	`Testes de Software`, `Garantia de Qualidade (QA)`, `Boas Práticas` |
   | **Backend & Linguagens** | `Java`, `Spring Boot`, `Python`, `JavaScript` |
   | **Banco de Dados** | `MySQL`, `SQL` |
   | **Frontend** | `HTML5`, `CSS3` |
