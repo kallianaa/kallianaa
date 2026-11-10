@@ -34,7 +34,7 @@
 ## 💻 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,docker,git,github,idea&perline=11" alt="Minhas Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,git,github,vscode,idea&perline=11" alt="Minhas Tecnologias" />
 </p>
 
 <details>
