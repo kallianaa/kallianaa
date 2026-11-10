@@ -1,8 +1,9 @@
 <div align="center">
   <!-- Banner animado com efeito de digitação -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Oi%2C+eu+sou+a+Kalli!+%F0%9F%91%8B;Formada+em+ADS+%F0%9F%8E%93;Desenvolvedora+Java+%26+Python+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Oi%2C+eu+sou+a+Kalli!+%F0%9F%91%8B;Formada+em+ADS+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Oi%2C+eu+sou+a+Kalli!+%F0%9F%91%8B;Formada+em+ADS+%F0%9F%8E%93;Desenvolvedora+Java+%26+Python+%F0%9F%92%BB" alt="Typing SVG" /> -->
 
 <p align="center">
   <b>Análise e Desenvolvimento de Sistemas</b>
