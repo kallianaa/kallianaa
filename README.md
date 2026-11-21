@@ -1,86 +1,47 @@
-<div align="center">
-  <!-- Banner animado com efeito de digitação -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Oi%2C+eu+sou+a+Kalli!+%F0%9F%91%8B;Formada+em+ADS+%F0%9F%8E%93" alt="Typing SVG" />
-</div>
-
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Oi%2C+eu+sou+a+Kalli!+%F0%9F%91%8B;Formada+em+ADS+%F0%9F%8E%93;Desenvolvedora+Java+%26+Python+%F0%9F%92%BB" alt="Typing SVG" /> -->
+<h1 align="center">Oi, eu sou a Kalli! 👋</h1>
 
 <p align="center">
-  <b>Análise e Desenvolvimento de Sistemas</b>
+  <strong>Assistente de QA</strong> · Formada em Análise e Desenvolvimento de Sistemas
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kalliana-glaeser/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/kalliana-glaeser/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:kalliana.glaeser@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail">
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kallianaa.kallianaa&color=61afef" alt="Visitors" />
 </p>
 
----
+## 👩‍💻 Sobre mim
 
-## 👩‍💻 Sobre Mim
+Sou formada em **Análise e Desenvolvimento de Sistemas** pela **Unisinos** e trabalho como **Assistente de QA**, com foco em testes e qualidade de software.
 
-- 🎓 Formada em **Análise e Desenvolvimento de Sistemas** pela **Unisinos**.
-- 🧪 Atualmente atuando como **Assistente de QA** (Quality Assurance).
-- ☕ Focada em **Java**, **Spring Boot**, **Python** e modelagem de **Bancos de Dados SQL**.
-- 🐳 Praticando containerização com **Docker**, controle de versão com **Git/GitHub** e boas práticas de código.
+Nos estudos de desenvolvimento, meu foco é **Python**, **Selenium** e **modelagem de bancos de dados SQL**. Também pratico versionamento com **Git e GitHub**.
 
-
----
-
-## 💻 Tecnologias & Ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,git,github,vscode,idea&perline=11" alt="Minhas Tecnologias" />
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,docker,js,html,css,github,idea,vscode&amp;perline=6"
+    alt="Java, Spring Boot, Python, MySQL, Git, Docker, JavaScript, HTML, CSS, GitHub, IntelliJ IDEA e VS Code"
+  >
+</p>
+
+## 🕹️ Atividade no GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph-dark.svg">
+    <img src="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph.svg" alt="Gráfico de contribuições no GitHub em estilo Pac-Man" width="100%">
+  </picture>
 </p>
 
 <details>
-  <summary><b>🔍 Clique para ver por categoria</b></summary>
-  <br>
+  <summary>Ver estatísticas do GitHub</summary>
 
-  | Categoria | Tecnologias |
-  | :--- | :--- |
-  | **QA & Qualidade** |	`Testes de Software`, `Garantia de Qualidade (QA)`, `Boas Práticas` |
-  | **Backend & Linguagens** | `Java`, `Spring Boot`, `Python`, `JavaScript` |
-  | **Banco de Dados** | `MySQL`, `SQL` |
-  | **Frontend** | `HTML5`, `CSS3` |
-  | **Ferramentas & DevOps** | `Git`, `GitHub`, `Docker`, `IntelliJ IDEA` |
-
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=kallianaa&amp;theme=transparent&amp;hide_border=true" alt="Sequência de contribuições da Kalli no GitHub" width="420">
+    <img src="https://stats-readme-g3ri.vercel.app/api/?username=kallianaa&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true&amp;include_all_commits=true&amp;show_icons=true" alt="Estatísticas do perfil da Kalli no GitHub" width="420">
+  </p>
 </details>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=kallianaa&theme=transparent&hide_border=true" width="100%" alt="GitHub Streak" />
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://stats-readme-g3ri.vercel.app/api/?username=kallianaa&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&show_icons=true" width="100%" alt="GitHub Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- Pacman Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/kallianaa/kallianaa/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <i>"A melhor maneira de prever o futuro é inventá-lo." — Alan Kay</i>
-</div>
